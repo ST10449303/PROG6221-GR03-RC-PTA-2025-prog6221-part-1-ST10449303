@@ -1,0 +1,19 @@
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\bin\Debug\net8.0\Cyber ChatBot Part1 POE.exe
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\bin\Debug\net8.0\greeting.wav
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\bin\Debug\net8.0\Cyber ChatBot Part1 POE.deps.json
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\bin\Debug\net8.0\Cyber ChatBot Part1 POE.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\bin\Debug\net8.0\Cyber ChatBot Part1 POE.dll
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\bin\Debug\net8.0\Cyber ChatBot Part1 POE.pdb
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\obj\Debug\net8.0\Cyber ChatBot Part1 POE.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\obj\Debug\net8.0\Cyber ChatBot Part1 POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\obj\Debug\net8.0\Cyber ChatBot Part1 POE.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\obj\Debug\net8.0\Cyber ChatBot Part1 POE.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\obj\Debug\net8.0\Cyber ChatBot Part1 POE.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\obj\Debug\net8.0\Cyber Ch.6EFC5A1A.Up2Date
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\obj\Debug\net8.0\Cyber ChatBot Part1 POE.dll
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\obj\Debug\net8.0\refint\Cyber ChatBot Part1 POE.dll
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\obj\Debug\net8.0\Cyber ChatBot Part1 POE.pdb
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\obj\Debug\net8.0\Cyber ChatBot Part1 POE.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\Cyber ChatBot Part1 POE\obj\Debug\net8.0\ref\Cyber ChatBot Part1 POE.dll
